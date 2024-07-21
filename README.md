@@ -7,3 +7,4 @@ Sho-8o  +   Kas-8e
      bethlehem g,a
    30620
 +   q.doc
+   =₩3000
